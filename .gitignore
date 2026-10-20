@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.secrets
+.env.secrets.*
+!.env.secrets.example
+data/raw/
+data/processed/
+*.db
+data/runtime/workflow_state.json
+node_modules/
+dist/
+
